@@ -1,0 +1,64 @@
+﻿<div class="text-primary">
+    <h1>New User</h1>
+</div>
+<form class="form-horizontal" name="myForm">
+    <div class="form-group">
+        <label class="control-label col-sm-2" for="email">Name</label>
+        <div class="col-sm-10">
+            <input type="text" name="name" ng-model="newuser.name" required class="form-control" span-dr>
+            <span>Name must contain spaces</span>
+            <span style="color:red" ng-show="myForm.name.$dirty && myForm.name.$invalid">
+                <span ng-show="myForm.name.$error.required">Username is required.</span>
+            </span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-sm-2" for="email">Email</label>
+        <div class="col-sm-10">
+            <input type="email" name="email" ng-model="newuser.email" required class="form-control">
+            <span style="color:red" ng-show="myForm.email.$dirty && myForm.email.$invalid">
+                <span ng-show="myForm.email.$error.required">Email is required.</span>
+                <span ng-show="myForm.email.$error.email">Invalid email address.</span>
+            </span>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-sm-2" for="email">Hire User Name:</label>
+        <div class="col-sm-10">
+            <input type="text" name="name" ng-model="newuser.name"  class="form-control" span-dr>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-sm-2" for="email">Address</label>
+        <div class="col-sm-10">
+            <input type="text" name="name" ng-model="newuser.address" class="form-control" span-dr>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-sm-2" for="email">Phone</label>
+        <div class="col-sm-10">
+            <input type="text" name="name" ng-model="newuser.phone" class="form-control" span-dr>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-sm-2" for="email">Website</label>
+        <div class="col-sm-10">
+            <input type="text" name="name" ng-model="newuser.website" class="form-control" span-dr>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-sm-2" for="email">Company</label>
+        <div class="col-sm-10">
+            <div><input type="text" name="name" ng-model="newuser.company.name" class="form-control" span-dr placeholder="name"></div>
+            <div><input type="text" name="name" ng-model="newuser.company.catchPhrase" class="form-control" span-dr placeholder="catch Phrase"></div>
+            <div><input type="text" name="name" ng-model="newuser.company.bs" class="form-control" span-dr placeholder="bs"></div>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+            <button ng-click="addNewUser(newuser)" ng-disabled="myForm.name.$dirty && myForm.name.$invalid || myForm.email.$dirty && myForm.email.$invalid" type="submit" class="btn btn-default">
+                Add New User
+            </button>
+        </div>
+    </div>
+</form>

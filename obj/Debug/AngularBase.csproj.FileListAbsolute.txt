@@ -1,0 +1,52 @@
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\AngularBase.dll.config
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\AngularBase.dll
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\AngularBase.pdb
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\Newtonsoft.Json.dll
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\System.Net.Http.dll
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\System.Net.Http.WebRequest.dll
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\System.Web.Helpers.dll
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\System.Web.Mvc.dll
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\System.Web.Razor.dll
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\System.Web.WebPages.dll
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\Newtonsoft.Json.xml
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\System.Net.Http.xml
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\System.Net.Http.WebRequest.xml
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\System.Web.Helpers.xml
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\System.Web.Mvc.xml
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\System.Web.Razor.xml
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\System.Web.WebPages.xml
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\obj\Debug\AngularBase.csprojResolveAssemblyReference.cache
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\obj\Debug\AngularBase.dll
+C:\Users\Shlomo\Documents\Visual Studio 2012\Codewalker\Projects\Project4\AngularBase\obj\Debug\AngularBase.pdb
+C:\Users\Esther\Downloads\AngularBase\bin\AngularBase.dll.config
+C:\Users\Esther\Downloads\AngularBase\bin\AngularBase.dll
+C:\Users\Esther\Downloads\AngularBase\bin\AngularBase.pdb
+C:\Users\Esther\Downloads\AngularBase\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Esther\Downloads\AngularBase\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Esther\Downloads\AngularBase\bin\Newtonsoft.Json.dll
+C:\Users\Esther\Downloads\AngularBase\bin\System.Net.Http.dll
+C:\Users\Esther\Downloads\AngularBase\bin\System.Net.Http.WebRequest.dll
+C:\Users\Esther\Downloads\AngularBase\bin\System.Web.Helpers.dll
+C:\Users\Esther\Downloads\AngularBase\bin\System.Web.Mvc.dll
+C:\Users\Esther\Downloads\AngularBase\bin\System.Web.Razor.dll
+C:\Users\Esther\Downloads\AngularBase\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Esther\Downloads\AngularBase\bin\System.Web.WebPages.dll
+C:\Users\Esther\Downloads\AngularBase\bin\System.Web.WebPages.Razor.dll
+C:\Users\Esther\Downloads\AngularBase\bin\Newtonsoft.Json.xml
+C:\Users\Esther\Downloads\AngularBase\bin\System.Net.Http.xml
+C:\Users\Esther\Downloads\AngularBase\bin\System.Net.Http.WebRequest.xml
+C:\Users\Esther\Downloads\AngularBase\bin\System.Web.Helpers.xml
+C:\Users\Esther\Downloads\AngularBase\bin\System.Web.Mvc.xml
+C:\Users\Esther\Downloads\AngularBase\bin\System.Web.Razor.xml
+C:\Users\Esther\Downloads\AngularBase\bin\System.Web.WebPages.xml
+C:\Users\Esther\Downloads\AngularBase\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Esther\Downloads\AngularBase\bin\System.Web.WebPages.Razor.xml
+C:\Users\Esther\Downloads\AngularBase\obj\Debug\AngularBase.dll
+C:\Users\Esther\Downloads\AngularBase\obj\Debug\AngularBase.pdb
+C:\Users\Esther\Downloads\AngularBase\obj\Debug\AngularBase.csprojResolveAssemblyReference.cache

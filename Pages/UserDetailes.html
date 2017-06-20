@@ -1,0 +1,78 @@
+﻿<div ng-hide="user">
+    <div class="alert alert-warning">
+        <p>You must select from the User list</p>
+    </div>
+</div>
+<div class="container" ng-if="user">
+    <div class="row">
+        <div class="col-md-5  toppad  pull-right col-md-offset-3 ">
+        </div>
+        <!--<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xs-offset-0 col-sm-offset-0 col-md-offset-3 col-lg-offset-3 toppad">-->
+
+
+        <div class="panel panel-info">
+            <div class="panel-heading">
+                <h3 class="panel-title" ng-click="openDetailes('ss')">{{user.name}}</h3>
+            </div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-md-3 col-lg-3 " align="center"> <img alt="User Pic" src="http://babyinfoforyou.com/wp-content/uploads/2014/10/avatar-300x300.png" class="img-circle img-responsive"> </div>
+                    <div class=" col-md-9 col-lg-9 ">
+                        <table class="table table-user-information">
+                            <tbody>
+                            <tr>
+                                <td>Name:</td>
+                                <td>{{user.name}}</td>
+                            </tr>
+                            <tr>
+                                <td>User Name:</td>
+                                <td>{{user.username}}</td>
+                            </tr>
+                            <tr>
+                                <td>Phone</td>
+                                <td>{{user.phone}}</td>
+                            </tr>
+
+                            <tr>
+                            <tr>
+                                <td>Website</td>
+                                <td>{{user.website}}</td>
+                            </tr>
+                            <tr>
+                                <td>Company</td>
+                                <td>{{user.company.name}} ,{{user.company.catchPhrase}} ,{{user.company.bs}} ,</td>
+                            </tr>
+                            <tr>
+                                <td>Email</td>
+                                <td><a ng-href="mailto:{{user.email}}">{{user.email}}</a></td>
+                            </tr>
+                            <tr>
+                                <td>Address</td>
+                                <td>
+                                    {{user.address.street}} ,{{user.address.suite}} ,{{user.address.city}} ,{{user.address.zipcode}}
+                                </td>
+                                <td><i class="glyphicon glyphicon-eye-open" ng-click="openMap(user.address.geo.lat,user.address.geo.lng)"></i> <div >Open in googel map</div></td>
+                                <td>
+                                  
+                                </td>
+                                    
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="panel-footer">
+            </div>
+        </div>
+        <div ng-if="showgooglemap" map-lazy-load="https://maps.google.com/maps/api/js">
+            <ng-map  zoom="3">
+                <marker position="{{latlng}}"
+                        animation="Animation.BOUNCE" animation="DROP" draggable="true"></marker>
+            </ng-map>
+            
+        </div>
+        <div id="map"></div>
+        <!--</div>-->
+    </div>
+</div>
